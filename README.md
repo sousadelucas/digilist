@@ -11,18 +11,18 @@ O projeto será dividido em em 3 seções.
 De forma geral o projeto contem ScrollSuave entre as barras de navegação e uma pequena transição entre as seções.
 
 Section 1: DigiList
-Contém: Um ScrollList para clicar no digimon e aparecer seus dados e caracteristicas.
+<p>- Contém: Um ScrollList para clicar no digimon e aparecer seus dados e caracteristicas. </p>
 
 ![ScrollList](https://user-images.githubusercontent.com/78385509/111173101-2605f000-8585-11eb-8e8a-232b3be23460.png)
 
 Section 2: FAQ
-Contém: Um Accordion List para deixar a página mais limpa e navegável.
+<p>- Contém: Um Accordion List para deixar a página mais limpa e navegável. </p>
 
 ![AccordeonList](https://user-images.githubusercontent.com/78385509/111173992-d3790380-8585-11eb-9d4c-d31ce1906839.png)
 
 
 Section 3: Map DigiMundo;
-Contém: Mapa e info para contato. Novas funcionalidades podem ser implementadas.
+<p> - Contém: Mapa e info para contato. Novas funcionalidades podem ser implementadas. </p>
 
 
 **Paleta de cores;**
